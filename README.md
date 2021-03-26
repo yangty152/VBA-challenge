@@ -1,8 +1,8 @@
-# VBA-challenge
+# VBA-challenge - Tianyue Yang submission
 
 ## Data&amp;Analytics Bootcamp Assignment 2
 
-### This repository contains all files for Assignment 2:
+This repository contains all files for Assignment 2:
 1. Screenshots in JPG format for visual basic macro result for each year:
     * Result – Year 2014.JPG
     * Result – Year 2015.JPG
